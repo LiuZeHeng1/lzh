@@ -8,4 +8,11 @@ public class Users {
     //测试
 
 
+    public Integer getAge() {
+        return age;
+    }
+
+    public void setAge(Integer age) {
+        this.age = age;
+    }
 }
